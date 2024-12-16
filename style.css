@@ -139,11 +139,11 @@ button.delete img:hover {
   display: none;
 }
 
-.tasks-list li.edit-mode input[type=text] {
+.tasks-list li.task__container_edit-mode input[type=text] {
   display: inline-block;
   width: 224px;
 }
 
-.tasks-list li.edit-mode label {
+.tasks-list li.task__container_edit-mode label {
   display: none;
 }
